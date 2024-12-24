@@ -16,7 +16,7 @@
 .container-rigth{
     width: 40%;
     height: 100vh;
-    background: rgba(93, 93, 125, 0.16);
+    background: rgba(93, 93, 125, .16);
     display: inline-block;
     position: absolute;
 }
